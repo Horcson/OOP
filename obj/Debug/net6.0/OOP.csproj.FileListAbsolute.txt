@@ -1,0 +1,15 @@
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+K:\GitCode\OOP\bin\Debug\net6.0\OOP.exe
+K:\GitCode\OOP\bin\Debug\net6.0\OOP.deps.json
+K:\GitCode\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+K:\GitCode\OOP\bin\Debug\net6.0\OOP.dll
+K:\GitCode\OOP\bin\Debug\net6.0\OOP.pdb
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.dll
+K:\GitCode\OOP\obj\Debug\net6.0\refint\OOP.dll
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.pdb
+K:\GitCode\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+K:\GitCode\OOP\obj\Debug\net6.0\ref\OOP.dll
